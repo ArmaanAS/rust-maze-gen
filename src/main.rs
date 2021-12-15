@@ -1,7 +1,7 @@
 use crate::maze_opt::Maze;
 
 mod maze_opt;
-mod maze;
+// mod maze;
 
 fn main() {
     // let mut maze = maze::Maze::new(69, 37);
