@@ -9,5 +9,4 @@ edition = "2021"
 rand = "0.8.4"
 
 [profile.release]
-debug = true
 opt-level = 3
