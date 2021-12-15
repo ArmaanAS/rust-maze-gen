@@ -6,12 +6,6 @@
 
 ![](maze.png)
 
-## Installation
-
-```sh
-cargo build --release
-```
-
 ## Usage example
 
 You can build the project like any rust project and run it with
